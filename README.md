@@ -1,6 +1,8 @@
 floatingstatus
 ==============
 
+![screenshot](screenshot.png "screenshot")
+
 Description
 -----------
 This is a patch that lets you transform the status bar into a floating bar. You can change the bar height and the vertical and horizontal padding.
